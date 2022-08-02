@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+set -e
+
+gcc main.c -o main -Wall -Wextra -pedantic $(pkg-config allegro-5 allegro_font-5 --libs --cflags)
+

@@ -1,5 +1,4 @@
-# c-programs
-### some gui stuff in c
+#simple gui application in c
 > How to run
 ```
 chmod +x run

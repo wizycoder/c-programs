@@ -1,6 +1,6 @@
 # c-programs
 
- some basic gui stuff in c
- build
- chmod +x run
- ./run
+ some basic gui stuff in c\n
+ build\n
+ chmod +x run\n
+ ./run\n
